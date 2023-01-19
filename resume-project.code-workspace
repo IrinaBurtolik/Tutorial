@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../Рабочий стол/resume-project"
+		},
+		{
+			"path": "../../../Рабочий стол/Study/Projects/vscode-basics"
+		}
+	],
+	"settings": {
+		"scm.inputFontSize": 15,
+		"workbench.sash.size": 5,
+		"liveServer.settings.multiRootWorkspaceName": "vscode-basics"
+	}
+}
